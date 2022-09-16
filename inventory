@@ -38,13 +38,11 @@
 
 ## db-[99:101]-node.example.com
 
-[st]
+# vim inventory          //inventory file already exists in exam
+
+[web]
 node1
+
+[dev]
 node2
-
-[et]
-node3
-
-[pr]
-openshift
-
+  
