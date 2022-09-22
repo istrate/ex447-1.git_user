@@ -1,6 +1,6 @@
 myusers:
   - name: frank
     group: developer
-  - name: harry
+  - name: happy
     group: manager
   
